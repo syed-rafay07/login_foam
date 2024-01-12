@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/syed-rafay07/login_foam.git/static/css/main.299f063a.css",
+    "main.js": "/syed-rafay07/login_foam.git/static/js/main.6259cbc5.js",
+    "static/js/787.7f7dca02.chunk.js": "/syed-rafay07/login_foam.git/static/js/787.7f7dca02.chunk.js",
+    "static/media/gps.jpg.png": "/syed-rafay07/login_foam.git/static/media/gps.jpg.0058841f2aafdc862f27.png",
+    "index.html": "/syed-rafay07/login_foam.git/index.html",
+    "main.299f063a.css.map": "/syed-rafay07/login_foam.git/static/css/main.299f063a.css.map",
+    "main.6259cbc5.js.map": "/syed-rafay07/login_foam.git/static/js/main.6259cbc5.js.map",
+    "787.7f7dca02.chunk.js.map": "/syed-rafay07/login_foam.git/static/js/787.7f7dca02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299f063a.css",
+    "static/js/main.6259cbc5.js"
+  ]
+}
